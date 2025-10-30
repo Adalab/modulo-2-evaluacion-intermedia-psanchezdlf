@@ -1,7 +1,7 @@
 # ✂️ Juego Piedra, Papel o Tijera
 
 Un mini proyecto en **HTML, CSS y JavaScript** donde la jugadora se enfrenta a la computadora en el clásico juego de **Piedra, Papel o Tijera**.  
-Este ejercicio fue desarrollado como práctica para entender **interacción con el DOM**, **eventos**, **lógica condicional** y **uso de funciones básicas** en JavaScript.
+Este ejercicio fue desarrollado como práctica para entender **eventos**, **lógica condicional** y **uso de funciones básicas** en JavaScript.
 
 ---
 
